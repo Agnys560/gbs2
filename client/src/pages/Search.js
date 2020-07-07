@@ -3,7 +3,7 @@ import axios from "axios";
 import SearchForm from "../components/SearchForm";
 import SearchResults from "../components/SearchResults";
 
-const GOOGLE_API_KEY = "AIzaSyA9fElmSPRo7VFog9gKGCirX39ZPhMpwws";
+const GOOGLE_API_KEY = "AIzaSyACTYym68zoTsukMZ9cAWm123nbMMvqk74";
 // jonathanmodlin1@gmail.com api email
 
 class Search extends Component {
